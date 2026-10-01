@@ -8,7 +8,9 @@
   <sub>João Pessoa, Brasil · Aberto a colaborações remotas</sub>
 </p>
 
-Construo **APIs, agentes de IA e automações** que conectam tecnologia ao dia a dia de negócios reais. Sou desenvolvedor backend e engenheiro de IA na **LizardTI**, com mais de 4 anos de experiência em sistemas em produção.
+Sou Gabriel, desenvolvedor backend e engenheiro de IA na **LizardTI**. Tenho mais de 4 anos de experiência com sistemas em produção e gosto de entender o problema de perto para construir algo que realmente ajude quem vai usar.
+
+Trabalho com **APIs, agentes de IA e automações**, conectando modelos de linguagem a dados, serviços e sistemas empresariais. Meu trabalho vai da arquitetura de backend às integrações via **MCP** e ao **fine-tuning de modelos**, com atenção ao que acontece depois que a solução entra em produção.
 
 ## Minha stack
 
