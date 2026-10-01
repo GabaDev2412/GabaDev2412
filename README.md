@@ -17,6 +17,7 @@ Construo **APIs, agentes de IA e automações** que conectam tecnologia ao dia a
 <p>
   <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" title="Python" />
   <img src="./assets/icons/fastapi.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />
+  <img src="./assets/icons/nestjs.svg" width="40" height="40" alt="NestJS" title="NestJS" />
   <img src="./assets/icons/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img src="./assets/icons/redis.svg" width="40" height="40" alt="Redis" title="Redis" />
   <img src="./assets/icons/supabase.svg" width="40" height="40" alt="Supabase" title="Supabase" />
@@ -24,7 +25,7 @@ Construo **APIs, agentes de IA e automações** que conectam tecnologia ao dia a
   <img src="./assets/icons/oracle.svg" width="40" height="40" alt="Oracle" title="Oracle" />
 </p>
 
-Python · FastAPI · PostgreSQL · Redis · Supabase · asyncpg · Prisma · Oracle/TOTVS
+Python · FastAPI · NestJS · PostgreSQL · Redis · Supabase · asyncpg · Prisma · Oracle/TOTVS
 
 **IA & agentes**
 
@@ -70,15 +71,16 @@ n8n · Evolution API · ZPro/WABA
 
 Docker · Linux · Traefik · Portainer · Tailscale
 
-**Desenvolvimento**
+**Desenvolvimento & documentação**
 
 <p>
   <img src="./assets/icons/git.svg" width="40" height="40" alt="Git" title="Git" />
   <img src="./assets/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub" />
   <img src="./assets/icons/vscode.svg" width="40" height="40" alt="VS Code" title="VS Code" />
+  <img src="./assets/icons/scalar.svg" width="40" height="40" alt="Scalar" title="Scalar — documentação de APIs" />
 </p>
 
-Git · GitHub · VS Code
+Git · GitHub · VS Code · Scalar (documentação de APIs)
 
 <p align="center">
   <img src="./assets/stack-motion.svg" width="100%" alt="APIs, agentes e automação conectados" />
