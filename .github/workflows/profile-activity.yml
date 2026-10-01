@@ -1,0 +1,40 @@
+name: Atualizar atividade do perfil
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_activity.py
+      - .github/workflows/profile-activity.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Gerar métricas
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/update_activity.py
+      - name: Salvar painel atualizado
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-activity.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update GitHub activity metrics'
+            git push
+          fi

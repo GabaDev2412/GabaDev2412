@@ -124,6 +124,14 @@ Fine-tuning de Qwen para consultar um esquema Oracle / TOTVS em linguagem natura
 
 </details>
 
+## Atividade no GitHub
+
+<p align="center">
+  <a href="https://github.com/GabaDev2412?tab=overview">
+    <img src="./assets/github-activity.svg" width="100%" alt="Métricas do GitHub: commits públicos e contribuições nos últimos 12 meses, dias ativos nos últimos 30 dias e gráfico de contribuições diárias dos últimos 90 dias." />
+  </a>
+</p>
+
 <details>
 <summary><strong>Formação</strong></summary>
 
