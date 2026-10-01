@@ -34,14 +34,14 @@ Python · FastAPI · NestJS · PostgreSQL · Redis · Supabase · asyncpg · Pri
 <p>
   <img src="./assets/icons/langgraph.svg" width="40" height="40" alt="LangGraph" title="LangGraph" />
   <img src="./assets/icons/langchain.svg" width="40" height="40" alt="LangChain" title="LangChain" />
-  <a href="https://docs.jangada.dev.br/"><img src="./assets/icons/jangada-ai.png" width="40" height="40" alt="Jangada AI" title="Jangada AI — documentação" /></a>
+  <img src="./assets/icons/jangada-ai.svg" width="40" height="40" alt="Jangada AI" title="Jangada AI" />
   <img src="./assets/icons/mcp.svg" width="40" height="40" alt="MCP" title="MCP" />
   <img src="./assets/icons/anthropic.svg" width="40" height="40" alt="Anthropic" title="Anthropic" />
   <img src="./assets/icons/openrouter.svg" width="40" height="40" alt="OpenRouter" title="OpenRouter" />
   <img src="./assets/icons/qwen.svg" width="40" height="40" alt="Qwen" title="Qwen" />
 </p>
 
-LangGraph · LangChain · [Jangada AI](https://docs.jangada.dev.br/) · FastMCP · Anthropic SDK · OpenRouter · Unsloth · LoRA · Qwen
+LangGraph · LangChain · Jangada AI · FastMCP · Anthropic SDK · OpenRouter · Unsloth · LoRA · Qwen
 
 **Frontend**
 
